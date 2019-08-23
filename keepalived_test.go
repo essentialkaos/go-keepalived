@@ -54,6 +54,11 @@ func (s *KASuite) TestRoleChecker(c *C) {
 
 	c.Assert(isMaster, Equals, false)
 	c.Assert(err, IsNil)
+
+	isMaster, err = IsMaster("192.168.0")
+
+	c.Assert(isMaster, Equals, false)
+	c.Assert(err, NotNil)
 }
 
 func (s *KASuite) TestAux(c *C) {
