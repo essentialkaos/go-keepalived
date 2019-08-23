@@ -77,7 +77,7 @@ func GetVirtualIP(config string) (string, error) {
 // IsMaster returns true if given virtual IP is used on this server
 func IsMaster(virtualIP string) (bool, error) {
 	if !ipValidationRegex.MatchString(virtualIP) {
-		return nil, errors.New("Given IP is not valid IPv4 address")
+		return false, errors.New("Given IP is not valid IPv4 address")
 	}
 
 	addrs, err := net.InterfaceAddrs()
