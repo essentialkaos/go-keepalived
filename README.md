@@ -5,6 +5,7 @@
   <a href="https://goreportcard.com/report/github.com/essentialkaos/keepalived"><img src="https://goreportcard.com/badge/github.com/essentialkaos/keepalived"></a>
   <a href="https://travis-ci.org/essentialkaos/keepalived"><img src="https://travis-ci.org/essentialkaos/keepalived.svg"></a>
   <a href='https://coveralls.io/github/essentialkaos/keepalived?branch=master'><img src='https://coveralls.io/repos/github/essentialkaos/keepalived/badge.svg?branch=master' alt='Coverage Status' /></a>
+  <a href="https://codebeat.co/projects/github-com-essentialkaos-keepalived-master"><img alt="codebeat badge" src="https://codebeat.co/badges/c6a62eb4-165e-4bc6-b089-929b791135a3" /></a>
 </p>
 
 <p align="center"><a href="#installation">Installation</a> • <a href="#build-status">Build Status</a> • <a href="#license">License</a></p>
