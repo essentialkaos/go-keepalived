@@ -4,6 +4,7 @@
   <a href="https://godoc.org/pkg.re/essentialkaos/keepalived.v1"><img src="https://godoc.org/pkg.re/essentialkaos/keepalived.v1?status.svg"></a>
   <a href="https://goreportcard.com/report/github.com/essentialkaos/keepalived"><img src="https://goreportcard.com/badge/github.com/essentialkaos/keepalived"></a>
   <a href="https://travis-ci.com/essentialkaos/keepalived"><img src="https://travis-ci.com/essentialkaos/keepalived.svg"></a>
+  <a href="https://github.com/essentialkaos/keepalived/actions?query=workflow%3ACodeQL"><img src="https://github.com/essentialkaos/keepalived/workflows/CodeQL/badge.svg" /></a>
   <a href='https://coveralls.io/github/essentialkaos/keepalived?branch=master'><img src='https://coveralls.io/repos/github/essentialkaos/keepalived/badge.svg?branch=master' alt='Coverage Status' /></a>
   <a href="https://codebeat.co/projects/github-com-essentialkaos-keepalived-master"><img alt="codebeat badge" src="https://codebeat.co/badges/c6a62eb4-165e-4bc6-b089-929b791135a3" /></a>
 </p>
