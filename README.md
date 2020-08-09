@@ -1,12 +1,12 @@
 <p align="center"><a href="#readme"><img src="https://gh.kaos.st/go-keepalived.svg"/></a></p>
 
 <p align="center">
-  <a href="https://pkg.go.dev/github.com/essentialkaos/keepalived"><img src="https://pkg.go.dev/badge/github.com/essentialkaos/keepalived"></a>
-  <a href="https://goreportcard.com/report/github.com/essentialkaos/keepalived"><img src="https://goreportcard.com/badge/github.com/essentialkaos/keepalived"></a>
-  <a href="https://travis-ci.com/essentialkaos/keepalived"><img src="https://travis-ci.com/essentialkaos/keepalived.svg"></a>
-  <a href="https://github.com/essentialkaos/keepalived/actions?query=workflow%3ACodeQL"><img src="https://github.com/essentialkaos/keepalived/workflows/CodeQL/badge.svg" /></a>
-  <a href='https://coveralls.io/github/essentialkaos/keepalived?branch=master'><img src='https://coveralls.io/repos/github/essentialkaos/keepalived/badge.svg?branch=master' alt='Coverage Status' /></a>
-  <a href="https://codebeat.co/projects/github-com-essentialkaos-keepalived-master"><img alt="codebeat badge" src="https://codebeat.co/badges/c6a62eb4-165e-4bc6-b089-929b791135a3" /></a>
+  <a href="https://pkg.go.dev/github.com/essentialkaos/go-keepalived"><img src="https://pkg.go.dev/badge/github.com/essentialkaos/go-keepalived"></a>
+  <a href="https://goreportcard.com/report/github.com/essentialkaos/go-keepalived"><img src="https://goreportcard.com/badge/github.com/essentialkaos/go-keepalived"></a>
+  <a href="https://travis-ci.com/essentialkaos/go-keepalived"><img src="https://travis-ci.com/essentialkaos/go-keepalived.svg"></a>
+  <a href="https://github.com/essentialkaos/go-keepalived/actions?query=workflow%3ACodeQL"><img src="https://github.com/essentialkaos/go-keepalived/workflows/CodeQL/badge.svg" /></a>
+  <a href='https://coveralls.io/github/essentialkaos/go-keepalived?branch=master'><img src='https://coveralls.io/repos/github/essentialkaos/go-keepalived/badge.svg?branch=master' alt='Coverage Status' /></a>
+  <a href="https://codebeat.co/projects/github-com-essentialkaos-go-keepalived-master"><img alt="codebeat badge" src="https://codebeat.co/badges/91017ccd-e7ef-4b0a-b447-6a7e8c658cb9" /></a>
   <a href="#license"><img src="https://gh.kaos.st/apache2.svg"></a>
 </p>
 
@@ -27,21 +27,21 @@ git config --global http.https://pkg.re.followRedirects true
 Make sure you have a working Go 1.12+ workspace (_[instructions](https://golang.org/doc/install)_), then:
 
 ```
-go get pkg.re/essentialkaos/keepalived.v1
+go get pkg.re/essentialkaos/go-keepalived.v1
 ```
 
 For update to the latest stable release, do:
 
 ```
-go get -u pkg.re/essentialkaos/keepalived.v1
+go get -u pkg.re/essentialkaos/go-keepalived.v1
 ```
 
 ### Build Status
 
 | Branch | Status |
 |--------|--------|
-| `master` | [![Build Status](https://travis-ci.com/essentialkaos/keepalived.svg?branch=master)](https://travis-ci.com/essentialkaos/keepalived) |
-| `develop` | [![Build Status](https://travis-ci.com/essentialkaos/keepalived.svg?branch=develop)](https://travis-ci.com/essentialkaos/keepalived) |
+| `master` | [![Build Status](https://travis-ci.com/essentialkaos/go-keepalived.svg?branch=master)](https://travis-ci.com/essentialkaos/go-keepalived) |
+| `develop` | [![Build Status](https://travis-ci.com/essentialkaos/go-keepalived.svg?branch=develop)](https://travis-ci.com/essentialkaos/go-keepalived) |
 
 ### License
 
