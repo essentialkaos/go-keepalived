@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://pkg.go.dev/github.com/essentialkaos/go-keepalived"><img src="https://pkg.go.dev/badge/github.com/essentialkaos/go-keepalived"></a>
   <a href="https://goreportcard.com/report/github.com/essentialkaos/go-keepalived"><img src="https://goreportcard.com/badge/github.com/essentialkaos/go-keepalived"></a>
-  <a href="https://travis-ci.com/essentialkaos/go-keepalived"><img src="https://travis-ci.com/essentialkaos/go-keepalived.svg"></a>
+  <a href="https://github.com/essentialkaos/go-keepalived/actions"><img src="https://github.com/essentialkaos/go-keepalived/workflows/CI/badge.svg" alt="GitHub Actions Status" /></a>
   <a href="https://github.com/essentialkaos/go-keepalived/actions?query=workflow%3ACodeQL"><img src="https://github.com/essentialkaos/go-keepalived/workflows/CodeQL/badge.svg" /></a>
   <a href='https://coveralls.io/github/essentialkaos/go-keepalived?branch=master'><img src='https://coveralls.io/repos/github/essentialkaos/go-keepalived/badge.svg?branch=master' alt='Coverage Status' /></a>
   <a href="https://codebeat.co/projects/github-com-essentialkaos-go-keepalived-master"><img alt="codebeat badge" src="https://codebeat.co/badges/91017ccd-e7ef-4b0a-b447-6a7e8c658cb9" /></a>
@@ -18,13 +18,7 @@
 
 ### Installation
 
-Before the initial install allows git to use redirects for [pkg.re](https://github.com/essentialkaos/pkgre) service (_reason why you should do this described [here](https://github.com/essentialkaos/pkgre#git-support)_):
-
-```
-git config --global http.https://pkg.re.followRedirects true
-```
-
-Make sure you have a working Go 1.12+ workspace (_[instructions](https://golang.org/doc/install)_), then:
+Make sure you have a working Go 1.14+ workspace (_[instructions](https://golang.org/doc/install)_), then:
 
 ```
 go get pkg.re/essentialkaos/go-keepalived.v1
@@ -40,8 +34,8 @@ go get -u pkg.re/essentialkaos/go-keepalived.v1
 
 | Branch | Status |
 |--------|--------|
-| `master` | [![Build Status](https://travis-ci.com/essentialkaos/go-keepalived.svg?branch=master)](https://travis-ci.com/essentialkaos/go-keepalived) |
-| `develop` | [![Build Status](https://travis-ci.com/essentialkaos/go-keepalived.svg?branch=develop)](https://travis-ci.com/essentialkaos/go-keepalived) |
+| `master` | [![CI](https://github.com/essentialkaos/go-keepalived/workflows/CI/badge.svg?branch=master)](https://github.com/essentialkaos/go-keepalived/actions) |
+| `develop` | [![CI](https://github.com/essentialkaos/go-keepalived/workflows/CI/badge.svg?branch=develop)](https://github.com/essentialkaos/go-keepalived/actions) |
 
 ### License
 
