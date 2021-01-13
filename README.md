@@ -1,7 +1,7 @@
 <p align="center"><a href="#readme"><img src="https://gh.kaos.st/go-keepalived.svg"/></a></p>
 
 <p align="center">
-  <a href="https://pkg.go.dev/pkg.re/essentialkaos/go-keepalived.v1"><img src="https://gh.kaos.st/godoc.svg" alt="PkgGoDev"></a>
+  <a href="https://pkg.re/essentialkaos/go-keepalived.v1?docs"><img src="https://gh.kaos.st/godoc.svg" alt="PkgGoDev"></a>
   <a href="https://goreportcard.com/report/github.com/essentialkaos/go-keepalived"><img src="https://goreportcard.com/badge/github.com/essentialkaos/go-keepalived"></a>
   <a href="https://github.com/essentialkaos/go-keepalived/actions"><img src="https://github.com/essentialkaos/go-keepalived/workflows/CI/badge.svg" alt="GitHub Actions Status" /></a>
   <a href="https://github.com/essentialkaos/go-keepalived/actions?query=workflow%3ACodeQL"><img src="https://github.com/essentialkaos/go-keepalived/workflows/CodeQL/badge.svg" /></a>
