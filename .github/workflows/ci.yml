@@ -41,7 +41,7 @@ jobs:
           go-version: ${{ matrix.go }}
 
       - name: Download dependencies
-        run: make deps-test
+        run: make deps
 
       - name: Run tests
         run: go test -covermode=count -coverprofile=cover.out
