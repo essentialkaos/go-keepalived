@@ -97,7 +97,7 @@ func IsMaster(virtualIP string) (bool, error) {
 
 // ////////////////////////////////////////////////////////////////////////////////// //
 
-// extractIP extracts IP from the address defenition
+// extractIP extracts IP from the address definition
 func extractIP(data string) string {
 	data = strings.TrimSpace(data)
 	index := strings.Index(data, " ")
