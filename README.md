@@ -14,20 +14,14 @@
 
 <br/>
 
-`keepalived` is a very simple Go package for reading virtual IP info from keepalived configuration file.
+`go-keepalived` is a very simple Go package for reading virtual IP info from [keepalived](https://www.keepalived.org) configuration file.
 
 ### Installation
 
-Make sure you have a working Go 1.17+ workspace (_[instructions](https://go.dev/doc/install)_), then:
+Make sure you have a working Go 1.18+ workspace (_[instructions](https://go.dev/doc/install)_), then:
 
 ```
-go get -d github.com/essentialkaos/go-keepalived
-```
-
-For update to the latest stable release, do:
-
-```
-go get -d -u github.com/essentialkaos/go-keepalived
+go get -d github.com/essentialkaos/go-keepalived/v2
 ```
 
 ### Build Status

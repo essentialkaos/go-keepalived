@@ -1,4 +1,4 @@
-module github.com/essentialkaos/go-keepalived
+module github.com/essentialkaos/go-keepalived/v2
 
 go 1.18
 
