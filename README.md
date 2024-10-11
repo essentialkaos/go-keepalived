@@ -6,7 +6,6 @@
   <a href="https://kaos.sh/w/go-keepalived/ci"><img src="https://kaos.sh/w/go-keepalived/ci.svg" alt="GitHub Actions CI Status" /></a>
   <a href="https://kaos.sh/w/go-keepalived/codeql"><img src="https://kaos.sh/w/go-keepalived/codeql.svg" alt="GitHub Actions CodeQL Status" /></a>
   <a href="https://kaos.sh/c/go-keepalived"><img src="https://kaos.sh/c/go-keepalived.svg" alt="Coverage Status" /></a>
-  <a href="https://kaos.sh/b/go-keepalived"><img src="https://kaos.sh/b/91017ccd-e7ef-4b0a-b447-6a7e8c658cb9.svg" alt="Codebeat badge" /></a>
   <a href="#license"><img src="https://gh.kaos.st/apache2.svg"></a>
 </p>
 
